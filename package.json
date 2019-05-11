@@ -1,0 +1,26 @@
+{
+  "name": "mongodbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbConnect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arockiaanandraj/myRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arockiaanandraj/myRepo/issues"
+  },
+  "homepage": "https://github.com/arockiaanandraj/myRepo#readme",
+  "dependencies": {
+    "mongodb": "2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.12.0"
+  }
+}
